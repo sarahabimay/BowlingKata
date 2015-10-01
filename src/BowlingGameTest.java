@@ -36,12 +36,17 @@ public class BowlingGameTest {
     }
     @Test
     public void testStrikeGame(){
-        g.roll(10);
+        rollStrike();
         g.roll(3);
         g.roll(5);
         rollMany(17, 0);
         assertEquals(26, g.score());
     }
+
+    private void rollStrike() {
+        g.roll(10);
+    }
+
     private void rollSpare() {
         g.roll(5);
         g.roll(5);

@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9af2d31b-3b5f-458d-ab18-aeca2982f36d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/BowlingGame.java" afterPath="$PROJECT_DIR$/src/BowlingGame.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/BowlingGameTest.java" afterPath="$PROJECT_DIR$/src/BowlingGameTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="BowlingGame2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -46,9 +43,10 @@
         <entry file="file://$PROJECT_DIR$/src/BowlingGameTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+              <caret line="0" column="24" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#177#178#0" expanded="true" />
+                <element signature="e#214#215#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -75,8 +73,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/BowlingGameTest.java" />
         <option value="$PROJECT_DIR$/src/BowlingGame.java" />
+        <option value="$PROJECT_DIR$/src/BowlingGameTest.java" />
       </list>
     </option>
   </component>
@@ -167,7 +165,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.BowlingGameTest.testAllOnesGame">
+  <component name="RunManager" selected="JUnit.BowlingGameTest">
     <configuration default="false" name="BowlingGameTest.testGutterGame" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="BowlingGame2" />
@@ -198,6 +196,27 @@
       <option name="MAIN_CLASS_NAME" value="BowlingGameTest" />
       <option name="METHOD_NAME" value="testAllOnesGame" />
       <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="BowlingGameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="BowlingGame2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BowlingGameTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -405,14 +424,16 @@
       <envs />
       <method />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="JUnit.BowlingGameTest.testGutterGame" />
       <item index="1" class="java.lang.String" itemvalue="JUnit.BowlingGameTest.testAllOnesGame" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.BowlingGameTest" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.BowlingGameTest.testAllOnesGame" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.BowlingGameTest.testGutterGame" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.BowlingGameTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.BowlingGameTest.testAllOnesGame" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.BowlingGameTest.testGutterGame" />
       </list>
     </recent_temporary>
   </component>
@@ -488,9 +509,10 @@
     <entry file="file://$PROJECT_DIR$/src/BowlingGameTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+          <caret line="0" column="24" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
           </folding>
         </state>
       </provider>

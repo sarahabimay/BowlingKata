@@ -1,4 +1,8 @@
 import org.junit.Before;
+<<<<<<< HEAD
+=======
+import org.junit.Ignore;
+>>>>>>> 165ddc7c917254a983d4e7521bc2e89095b0041a
 import org.junit.Test;
 
 import static org.junit.Assert.*;
